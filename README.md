@@ -60,15 +60,18 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
-  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"></a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"></a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
 </p>
 
 ---
@@ -78,39 +81,37 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
 <!-- Replace with your actual project links and potentially images/gifs -->
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
+      <p align="center">
+        <img src="https://images.unsplash.com/photo-1530685932526-48ec92998eaa?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Traffic Monitoring Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.45; margin-bottom:10px;" />
+      </p>
       <h3 align="center">Intelligent Traffic Monitoring & Violation Management</h3>
       <p align="center">
-        Full-stack Computer Vision system using YOLOv8 & PaddleOCR for helmet and license plate detection (92.8% mAP helmet, 95%+ OCR). Real-time web app with Flask & OpenCV.
+        Full-stack Computer Vision system using YOLOv8 & PaddleOCR for helmet and license plate detection (92.8% mAP helmet, 95%+ OCR). Real-time web app.
         <br/><br/>
-        <a href="[YOUR_GITHUB_PROJECT_LINK_HERE_TRAFFIC_MONITORING]" target="_blank">View on GitHub ➡️</a>
+        <a href="[YOUR_GITHUB_PROJECT_LINK_HERE_TRAFFIC_MONITORING]" target="_blank">Github</a>
       </p>
     </td>
-    <td width="50%">
+    <td width="33%">
+      <p align="center">
+        <img src="https://images.unsplash.com/photo-1530026186672-2cd00ffc50fe?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="ECG Interpretation Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.45; margin-bottom:10px;" />
+      </p>
       <h3 align="center">Web GUI for Rapid ECG Interpretation</h3>
       <p align="center">
         Deep Learning models (CNN, DenseNet, MobileNet, Hybrid LSTM) for multi-class ECG classification. Achieved 89.78% accuracy with a novel hybrid architecture.
         <br/><br/>
-        <a href="[YOUR_GITHUB_PROJECT_LINK_HERE_ECG]" target="_blank">View on GitHub ➡️</a>
+        <a href="[YOUR_GITHUB_PROJECT_LINK_HERE_ECG]" target="_blank">GitHub</a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Food Recipes Web App</h3>
+    <td width="33%">
+      <p align="center">
+        <img src="https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Food Recipes App Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.45; margin-bottom:10px;" />
+      </p>
+      <h3 align="center">Food Recipes Web Application with Videos </h3>
       <p align="center">
         React.js app delivering 100+ real-time recipes and YouTube videos via API. Boosted efficiency by 40% with responsive UI and React Hooks.
         <br/><br/>
-        <a href="[YOUR_GITHUB_PROJECT_LINK_HERE_RECIPES]" target="_blank">View on GitHub ➡️</a>
-      </p>
-    </td>
-    <td width="50%">
-       <!-- Add another project or keep this space for future projects -->
-      <h3 align="center">[Your Next Cool Project]</h3>
-      <p align="center">
-        Description of another exciting project you've worked on or plan to work on!
-        <br/><br/>
-        <a href="#" target="_blank">Coming Soon! 🚀</a>
+        <a href="[YOUR_GITHUB_PROJECT_LINK_HERE_RECIPES]" target="_blank">Github</a>
       </p>
     </td>
   </tr>
@@ -143,15 +144,12 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
 
 ---
 
-📜 ## Random Dev Quote:
+## 📜 Random Dev Quote:
 
 > "The best way to predict the future is to invent it."
 >
 > *- Alan Kay*
 
-(Feel free to replace this with your favorite quote!)
-
----
 <p align="center">
-  <em>⭐️ From udaykrizzz19 ⭐️</em>
+  <em>⭐️That's It From udaykrizzz19 ⭐️</em>
 </p>
