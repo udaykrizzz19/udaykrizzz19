@@ -23,7 +23,7 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
 
 <h2 align="center">🚀 About Me</h2>
 
-<div align="center>
+<div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udaykrizzz19/udaykrizzz19/main/developer_dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udaykrizzz19/udaykrizzz19/main/developer_light.svg">
