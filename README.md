@@ -163,9 +163,7 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
 
 ## 📜 Random Dev Quote:
 
-> "The best way to predict the future is to invent it."
->
-> *- Alan Kay*
+> "Value lies not in the destination, but in the sweat, tears, and determination"
 
 <p align="center">
   <em>⭐️That's It From udaykrizzz19 ⭐️</em>
