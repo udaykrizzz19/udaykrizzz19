@@ -1,17 +1,10 @@
-<div align="center">
-
 # Uday Krishna Banala 👋
 **💻 udaykrizzz19 · He/Him**
 
-</div>
-
-<div align="center">
-
 Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-Stack Development and AI-driven solutions. Experienced in leading development of scalable web applications, Cloud solutions and innovative projects Using Multiple Techstacks.
 
-</div>
-
 ---
+
 
 <p align="center">
   <a href="https://portfolioo-six-gamma.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio"/></a>
@@ -21,31 +14,31 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
   <a href="https://www.instagram.com/uday_krizzz?igsh=MXE5enMycG5hdDRnZA=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<h2 align="center">🚀 About Me</h2>
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udaykrizzz19/udaykrizzz19/main/developer_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udaykrizzz19/udaykrizzz19/main/developer_light.svg">
-    <img height="250" src="https://raw.githubusercontent.com/udaykrizzz19/udaykrizzz19/main/developer_light.svg">
-  </picture>
-  <br><br>
-  <p>🔭 I’m currently exploring roles in Full-Stack Development, DevOps Engineering, or Software Engineering.</p>
-  <p>💻 Architected and deployed scalable web platforms for <strong>SRMAP - Tech club</strong> (as Chief Technical Team Lead).</p>
-  <p>🏆 Runner-up at a <strong>Devfolio hackathon</strong> where my team built a full-stack healthcare platform.</p>
-  <p>🌱 Passionate about leveraging technology to solve real-world problems.</p>
-  <p>👯 I’m looking to collaborate on innovative projects in <strong>Full-Stack, AI/ML, and Cloud</strong>.</p>
-  <p>💬 Ask me about anything related to building cool tech!</p>
-  <p>📫 How to reach me: <strong>udaykrizzz08@gmail.com</strong> or connect on <strong>LinkedIn</strong>.</p>
-  <p>🎓 Pursued Bachelor's Degree at <strong>SRMAP University</strong> (Expected July 2025).</p>
-</div>
+## 🚀 About Me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udaykrizzz19/udaykrizzz19/main/developer_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udaykrizzz19/udaykrizzz19/main/developer_light.svg">
+  <img align="right" height="250" src="https://raw.githubusercontent.com/udaykrizzz19/udaykrizzz19/main/developer_light.svg">
+</picture>
+
+*    🔭 I’m currently exploring roles in Full-Stack Development, DevOps Engineering, or Software Engineering, with a strong foundation in building scalable web applications and infrastructure tools.
+*   💻 Architected and deployed scalable web platforms for **SRMAP - Tech club** (as Chief Technical Team Lead).
+*   🏆 Runner-up at a **Devfolio hackathon** in Bangalore, where my team built a full-stack healthcare platform.
+*   🌱 I’m passionate about leveraging technology to solve real-world problems, especially in areas like AI-driven automation, cloud systems and software environment.
+*   👯 I’m looking to collaborate on innovative projects in **Full-Stack Development, AI/ML, Cloud and Tech Projects**.
+*   💬 Ask me about anything related to building cool tech!**
+*   📫 How to reach me: **udaykrizzz08@gmail.com** or connect with me on **LinkedIn**.
+*   🎓 Pursued Bachelor's Degree at **SRMAP University** (Expected July 2025).
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<h3 align="center">Programming Languages:</h3>
-<p align="center">
+## Programming Languages:
+
+<p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
@@ -58,8 +51,9 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
   </a>
 </p>
 
-<h3 align="center">Frameworks & Libraries:</h3>
-<p align="center">
+## Frameworks & Libraries:
+
+<p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
@@ -71,8 +65,9 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
   <a href="https://www.npmjs.com/package/react-bits" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Bits-767676?style=for-the-badge&logo=react&logoColor=white" alt="React Bits">
 </p>
 
-<h3 align="center">Developer & DevOps Tooling:</h3>
-<p align="center">
+## Developer & DevOps Tooling:
+
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
@@ -86,8 +81,9 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"></a>
 </p>
 
-<h3 align="center">Cloud Platforms & Dev Services:</h3>
-<p align="center">
+## Cloud Platforms & Dev Services:
+
+<p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
@@ -99,13 +95,13 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"></a>
 </p>
 
-<h2 align="center">💡 Highlighted Projects</h2>
 
-<div align="center">
-  
+## 💡 Highlighted Projects
+
+<!-- Replace with your actual project links and potentially images/gifs -->
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="33%">
       <p align="center">
         <img src="https://images.unsplash.com/photo-1530685932526-48ec92998eaa?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Traffic Monitoring Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.45; margin-bottom:10px;" />
       </p>
@@ -116,7 +112,7 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
         <a href="[YOUR_GITHUB_PROJECT_LINK_HERE_TRAFFIC_MONITORING]" target="_blank">Github</a>
       </p>
     </td>
-    <td width="33%" align="center">
+    <td width="33%">
       <p align="center">
         <img src="https://images.unsplash.com/photo-1530026186672-2cd00ffc50fe?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="ECG Interpretation Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.45; margin-bottom:10px;" />
       </p>
@@ -127,7 +123,7 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
         <a href="[YOUR_GITHUB_PROJECT_LINK_HERE_ECG]" target="_blank">GitHub</a>
       </p>
     </td>
-    <td width="33%" align="center">
+    <td width="33%">
       <p align="center">
         <img src="https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Food Recipes App Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.45; margin-bottom:10px;" />
       </p>
@@ -141,24 +137,19 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
   </tr>
 </table>
 
-</div>
+---
+
+## 📄 Publications
+
+* **Pixel Manipulations for Image Security**  
+  Published author in IEEE. Developed a Caesar cipher–based image encryption using pixel displacement, enhancing visual data security by 87% with 100% decryption accuracy. Ideal for event-driven low-resource IoT applications compared to AES.  
+  🔗 [View Paper Folder](https://drive.google.com/drive/folders/1Ppvxj6zFRT88zPkbNFq0heyS8OGZZLgT?usp=sharing)
 
 ---
 
-<h2 align="center">📄 Publications</h2>
+## 📊 GitHub Stats & Activity
 
-<div align="center">
-
-**Pixel Manipulations for Image Security**  
-<p>Published author in IEEE. Developed a Caesar cipher–based image encryption using pixel displacement, enhancing visual data security by 87% with 100% decryption accuracy. Ideal for event-driven low-resource IoT applications compared to AES.</p>
-🔗 <a href="https://drive.google.com/drive/folders/1Ppvxj6zFRT88zPkbNFq0heyS8OGZZLgT?usp=sharing">View Paper Folder</a>
-
-</div>
-
----
-
-<h2 align="center">📊 GitHub Stats & Activity</h2>
-
+<!-- You can uncomment these or add your own from tools like https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=udaykrizzz19&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Uday's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykrizzz19&layout=compact&theme=tokyonight&hide_border=true" alt="Uday's Top Languages"/>
@@ -166,21 +157,19 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykrizzz19&theme=tokyonight&hide_border=true" alt="Uday's GitHub Streak"/>
 </p>
+<!-- For activity graph, consider: https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaykrizzz19&bg_color=0D1117&color=79ff97&line=79ff97&point=FFFFFF&area=true&hide_border=true" alt="Uday's Contribution Graph"/>
+</p> -->
 
 ---
 
-<h2 align="center">📜 Random Dev Quote:</h2>
+## 📜 Random Dev Quote:
 
-<div align="center">
-
-*“The best way to predict the future is to invent it.”*
-<br>
-*- Alan Kay*
-
-</div>
-
-<br>
+> "The best way to predict the future is to invent it."
+>
+> *- Alan Kay*
 
 <p align="center">
-  <em>⭐️ That's It From udaykrizzz19 ⭐️</em>
+  <em>⭐️That's It From udaykrizzz19 ⭐️</em>
 </p>
