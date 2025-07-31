@@ -34,11 +34,10 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## Programming Languages:
-
-<p align="left">
+<h3 align="center">Programming Languages:</h3>
+<p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
@@ -51,9 +50,8 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
   </a>
 </p>
 
-## Frameworks & Libraries:
-
-<p align="left">
+<h3 align="center">Frameworks & Libraries:</h3>
+<p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
@@ -65,9 +63,8 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
   <a href="https://www.npmjs.com/package/react-bits" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Bits-767676?style=for-the-badge&logo=react&logoColor=white" alt="React Bits">
 </p>
 
-## Developer & DevOps Tooling:
-
-<p align="left">
+<h3 align="center">Developer & DevOps Tooling:</h3>
+<p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
@@ -81,9 +78,8 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"></a>
 </p>
 
-## Cloud Platforms & Dev Services:
-
-<p align="left">
+<h3 align="center">Cloud Platforms & Dev Services:</h3>
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
