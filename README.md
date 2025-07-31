@@ -105,7 +105,7 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
       <p align="center">
         Full-stack Computer Vision system using YOLOv8 & PaddleOCR for helmet and license plate detection (92.8% mAP helmet, 95%+ OCR). Real-time web app.
         <br/><br/>
-        <a href="[YOUR_GITHUB_PROJECT_LINK_HERE_TRAFFIC_MONITORING]" target="_blank">Github</a>
+        <a href="https://github.com/udaykrizzz19/Full-Stack-Intelligent-Traffic-Monitoring-Violation-Management-and-fine-collection" target="_blank">Github</a>
       </p>
     </td>
     <td width="33%">
@@ -116,18 +116,18 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
       <p align="center">
         Deep Learning models (CNN, DenseNet, MobileNet, Hybrid LSTM) for multi-class ECG classification. Achieved 89.78% accuracy with a novel hybrid architecture.
         <br/><br/>
-        <a href="[YOUR_GITHUB_PROJECT_LINK_HERE_ECG]" target="_blank">GitHub</a>
+        <a href="https://github.com/udaykrizzz19/Cardiac-Conduction-SimulatioA-ECG-Classification-Model" target="_blank">GitHub</a>
       </p>
     </td>
     <td width="33%">
       <p align="center">
         <img src="https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Food Recipes App Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.45; margin-bottom:10px;" />
       </p>
-      <h3 align="center">Food Recipes Web Application with Videos </h3>
+      <h3 align="center">Recipe Whirl : A Full-Stack Software Solution </h3>
       <p align="center">
-        React.js app delivering 100+ real-time recipes and YouTube videos via API. Boosted efficiency by 40% with responsive UI and React Hooks.
+        Developed Recipe Whirl, a full-stack app with React 18, Vite, Supabase, and Tailwind, featuring secure OAuth, RLS, real-time updates, and 1,000+ API recipes.
         <br/><br/>
-        <a href="[YOUR_GITHUB_PROJECT_LINK_HERE_RECIPES]" target="_blank">Github</a>
+        <a href="https://github.com/udaykrizzz19/Recipe-Whirls" target="_blank">Github</a>
       </p>
     </td>
   </tr>
