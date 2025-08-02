@@ -151,13 +151,6 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
   <img src="https://github-readme-stats.vercel.app/api?username=udaykrizzz19&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Uday's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykrizzz19&layout=compact&theme=tokyonight&hide_border=true" alt="Uday's Top Languages"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykrizzz19&theme=tokyonight&hide_border=true" alt="Uday's GitHub Streak"/>
-</p>
-<!-- For activity graph, consider: https://github.com/ashutosh00710/github-readme-activity-graph -->
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaykrizzz19&bg_color=0D1117&color=79ff97&line=79ff97&point=FFFFFF&area=true&hide_border=true" alt="Uday's Contribution Graph"/>
-</p> -->
 
 ---
 
