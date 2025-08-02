@@ -144,15 +144,17 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<!-- You can uncomment these or add your own from tools like https://github.com/anuraghazra/github-readme-stats -->
+<!-- GitHub Stats & Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=udaykrizzz19&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Uday's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykrizzz19&layout=compact&theme=tokyonight&hide_border=true" alt="Uday's Top Languages"/>
 </p>
 
----
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udaykrizzz19&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+</p>
+
 
 ## 📜 Random Dev Quote:
 
