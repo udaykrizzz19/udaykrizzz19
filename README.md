@@ -95,7 +95,6 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
 
 ## 💡 Highlighted Projects
 
-<!-- Replace with your actual project links and potentially images/gifs -->
 <table>
   <tr>
     <td width="33%">
