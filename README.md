@@ -149,7 +149,6 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykrizzz19&layout=compact&theme=tokyonight&hide_border=true" alt="Uday's Top Languages"/>
 </p>
 
-<!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=udaykrizzz19&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
 </p>
