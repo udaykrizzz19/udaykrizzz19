@@ -4,8 +4,6 @@
 Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-Stack Development and AI-driven solutions. Experienced in leading development of scalable web applications, Cloud solutions and innovative projects Using Multiple Techstacks.
 
 ---
-
-
 <p align="center">
   <a href="https://portfolioo-six-gamma.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:udaykrizzz08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
