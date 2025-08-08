@@ -118,16 +118,17 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
       </p>
     </td>
     <td width="33%">
-      <p align="center">
-        <img src="https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Food Recipes App Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.45; margin-bottom:10px;" />
-      </p>
-      <h3 align="center">Recipe Whirl : A Full-Stack Software Solution </h3>
-      <p align="center">
-        Developed Recipe Whirl, a full-stack app with React 18, Vite, Supabase, and Tailwind, featuring secure OAuth, RLS, real-time updates, and 1,000+ API recipes.
-        <br/><br/>
-        <a href="https://github.com/udaykrizzz19/Recipe-Whirls" target="_blank">Github</a>
-      </p>
-    </td>
+  <p align="center">
+    <img src="https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Food Recipes App Project Image" style="width:100%; max-height:100px; object-fit:cover; border-radius:8px; opacity:0.45; margin-bottom:10px;" />
+  </p>
+  <h3 align="center">Recipe Whirl : A Full-Stack Software Solution</h3>
+  <p align="center">
+    Developed Recipe Whirl, a full-stack app with React 18, Vite, Supabase, and Tailwind, featuring secure OAuth, RLS, real-time updates, and 1,000+ API recipes.
+    <br/><br/>
+    <a href="https://github.com/udaykrizzz19/Recipe-Whirls" target="_blank">Github</a>
+  </p>
+</td>
+
   </tr>
 </table>
 
