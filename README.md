@@ -1,4 +1,4 @@
-# Uday Krishna Banala 👋
+# Uday Krishna Banala !
 **💻 udaykrizzz19 · He/Him**
 
 Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-Stack Development and AI-driven solutions. Experienced in leading development of scalable web applications, Cloud solutions and innovative projects Using Multiple Techstacks.
