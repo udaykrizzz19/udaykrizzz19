@@ -134,7 +134,7 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
 
 ---
 
-## 📄 Publication
+## 📄 Publications
 
 * **Pixel Manipulations for Image Security**  
   Published author in IEEE. Developed a Caesar cipher–based image encryption using pixel displacement, enhancing visual data security by 87% with 100% decryption accuracy. Ideal for event-driven low-resource IoT applications compared to AES.  
