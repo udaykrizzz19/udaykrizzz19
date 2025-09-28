@@ -155,7 +155,7 @@ Passionate **Software Engineer** and **DevOps Engineer** with a focus on Full-St
 
 ## 📜 Random Dev Quote:
 
-> "Value lies not in the destination, but in the sweat, tears, and determination !"
+> "Value lies not in the destination, but in the sweat, tears, and determination! "
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=udaykrizzz19" alt="Visitor Counter"/>
